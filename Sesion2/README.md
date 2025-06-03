@@ -3,5 +3,5 @@
 * Backpropagation
 * Funciones de pérdida
 * Evaluación
-* IA Explicable
+* IA Explicable (Anexo)
 
