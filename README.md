@@ -9,7 +9,7 @@ Las sesiones se impartirán en el **Laboratorio A3-183** en el siguiente calenda
 * **Miércoles 4 de junio** – 11:30 a 13:30
 * **Viernes 6 de junio** – 11:30 a 13:30
 * **Martes 10 de junio** – 11:30 a 13:30
-* **Viernes 13 de junio** – 11:30 a 13:30
+* **Viernes ~13~ 20 de junio** – 11:30 a 13:30
 
 ## 📚 Estructura del repositorio
 
